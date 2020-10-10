@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1967a160-439a-417a-8957-09d9777ae665" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1R4tYFb6N8Vut7BHl8z1qBt0NuC" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2366864" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Courses Centre Management System" is-module-sdk="true">
+        <envs>
+          <env key="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Courses Centre Management System" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="DB_Structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB_Structure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PY YT Downloader" type="PythonConfigurationType" factoryName="Python">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python Youtube downloader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python Youtube downloader/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RUN" type="PythonConfigurationType" factoryName="Python">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ahmed\Anaconda3\envs\myenv\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="splach_screen" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Courses Centre Management System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATH" value="E:\ProgramData\Anaconda3;E:\ProgramData\Anaconda3\Library\mingw-w64\bin;E:\ProgramData\Anaconda3\Library\usr\bin;E:\ProgramData\Anaconda3\Library\bin;E:\ProgramData\Anaconda3\Scripts;E:\ProgramData\Anaconda3\bin;D:\ProgramData;D:\ProgramData\Library\mingw-w64\bin;D:\ProgramData\Library\usr\bin;D:\ProgramData\Library\bin;D:\ProgramData\Scripts" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/PyQt5-Splash-Screen-With-Loading-GIF-master/PyQt5-Splash-Screen-With-Loading-GIF-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/PyQt5-Splash-Screen-With-Loading-GIF-master/PyQt5-Splash-Screen-With-Loading-GIF-master/splach_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.PY YT Downloader" />
+      <item itemvalue="Python.RUN" />
+      <item itemvalue="Python.splach_screen" />
+      <item itemvalue="Python.DB_Structure" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DB_Structure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1967a160-439a-417a-8957-09d9777ae665" name="Default Changelist" comment="" />
+      <created>1568938242466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568938242466</updated>
+    </task>
+    <servers />
+  </component>
+</project>

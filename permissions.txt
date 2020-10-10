@@ -1,0 +1,25 @@
+Admin:
+all permissions
+
+co-admin:
+- add/edit/delete course
+- add/edit/delete student/teacher
+- add/edit/delete employees
+- all settings ((except Admin Reports tab))
+- access Dashboard
+- access today tab
+- access history
+- access reports
+
+
+Normal: 
+
+- add/edit/delete course
+- add/edit/delete student/teacher
+- other settings
+- access today tab
+
+Worker:      ### Worker is normal employee not specialized in using the system
+            but we add him to calculate the salaries and for data analysis
+
+- access today tab

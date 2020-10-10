@@ -1,0 +1,107 @@
+
+
+- Daily movement ---- (add process - export excel , csv)
+- Courses	     ---- (add - edit - remove - all products - oen book - search -export - import)
+- Teachers       ---- (add - edit - export , import)
+- Students       ---- (add - edit - export , import)
+- Reports:
+	- Courses   				---- (one Course , top 10) from - to , export
+	- Teachers     		    	---- (one Teacher , top 10) - export
+	- Monthly report (deafult)  ---- (export)
+	- From - To 
+- History (admin only) ---- actions [daily movement] - filter (time,book,employee)
+- Dashboard            ---- today actions
+- Settings (user - permissions , admin email , branch)
+
+- users[admin , staff]
+- permission (before actions)
+- employee periority
+
+
+----------------------------------
+
+
+
+
+Process:
+	- date/time
+	- branch
+	- user
+
+
+
+
+
+
+
+----------------------------------
+
+	- Courses:
+		- subject
+		- price
+		- code
+		- teacher
+		- grade
+		- Saturday
+		- Sunday
+		- Monday
+		- Tuesday
+		- Wednesday
+		- Thursday
+		- Friday
+		- description
+
+
+	- Teachers:
+		- name
+		- mail
+		- phone
+		- date
+		- national id
+
+	- Students:
+		- name
+		- age
+		- grade
+		- code
+		- Email
+		- phone
+		- parent_phone1
+		- parent_phone2
+		- parent_email
+		- national_id
+		- join_date
+
+
+	- Employees:
+		- name
+		- mail
+		- phone
+		- date
+		- national id
+		- permissions
+
+	- subjects:
+		- subject_name
+
+	- Branch:
+		- name
+		- code 
+		- location
+
+
+	- daily movements:
+		- Course
+		- Client
+		- event_type (pay - book - full pay)
+		- datetime
+		- employee
+
+	- history:
+		- employee
+		- action
+		- table
+		- date
+		- branch
+
+

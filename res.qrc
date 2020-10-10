@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="res">
+
+	<file>resources/ICONS/Courses.png</file>
+	<file>resources/ICONS/History.png</file>
+	<file>resources/ICONS/dashboard.png</file>
+	<file>resources/ICONS/Transactions.png</file>
+	<file>resources/ICONS/Settings.png</file>
+	<file>resources/ICONS/Reports.png</file>
+	<file>resources/ICONS/Clients.png</file>
+
+  </qresource>
+
+</RCC>
